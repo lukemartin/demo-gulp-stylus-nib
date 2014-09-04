@@ -1,0 +1,25 @@
+{
+  "name": "demo-gulp-stylus-nib",
+  "version": "0.0.0",
+  "description": "demo-gulp-stylus-nib ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukemartin/demo-gulp-stylus-nib.git"
+  },
+  "author": "Luke Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukemartin/demo-gulp-stylus-nib/issues"
+  },
+  "homepage": "https://github.com/lukemartin/demo-gulp-stylus-nib",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-stylus": "^1.3.0",
+    "nib": "^1.0.3",
+    "stylus": "^0.48.1"
+  }
+}
